@@ -1,6 +1,0 @@
-{{#user}
-Name: SUBHAM CHANDRA
-Skills: HTML, CSS, JS, React, NodeJs, Git, Bootstrap, Tailwind, MongoDb, Sql, Postman
-Email: subhamchandra222@gmail.com
-{{/user}}
-}
